@@ -43,6 +43,7 @@ p, h1 {
     border-radius: 50%;
     cursor: pointer;
     transition: filter 100ms ease, transform 100ms ease;
+    margin-top: 20px;
 }
 
 .card__btn:hover {
